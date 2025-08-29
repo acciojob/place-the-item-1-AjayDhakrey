@@ -1,2 +1,67 @@
+.container-1 {
+  width: 100%; /* full width */
+  background-color: white;
+  display: flex;
+  justify-content: space-evenly; /* distributes space evenly */
+}
 
-/* Your CSS Code here. */
+.container-2 {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap; /* try wrap here to see items go to next line */;
+}
+
+.box {
+  height: 80px;
+  width: 80px;
+  border: solid black;
+  background: pink;
+  margin: 10px; /* spacing around boxes */
+}
+
+#a{
+	background-color: green;
+	
+}
+#b{
+	background-color: red;
+}
+
+#c{
+	background-color: blue;
+}
+
+#c3{
+	background-color: green;
+}
+
+
+#a1{
+	background-color: green;
+}
+
+
+#b2{
+	background-color: green;
+}
+
+
+#d{
+	background-color: green;
+}
+
+#e{
+	background-color: green;
+}
+
+#f{
+	background-color: red;
+}
+
+#g{
+	background-color: blue;
+}
+
+
+
+
